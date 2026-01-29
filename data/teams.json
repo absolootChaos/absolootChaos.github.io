@@ -1,181 +1,22 @@
 {
   "pointsTable": [25, 18, 15, 12, 10, 8, 6, 4, 2, 1],
   "races": [
-    { "raceId": "race1", "label": "Race 1" },
-    { "raceId": "race2", "label": "Race 2" },
-    { "raceId": "race3", "label": "Race 3" }
+    { "raceId": "race1", "label": "Seed 1" }
   ],
   "teams": [
     {
-      "id": "ashen-duo",
-      "teamName": "Ashen Duo",
-      "player1": { "name": "Kael", "twitch": "kael_runs" },
-      "player2": { "name": "Myra", "twitch": "myra_speed" },
+      "id": "whimsical",
+      "teamName": "The Whimsical Wandetta",
+      "player1": { "name": "Wander", "twitch": "wander652" },
+      "player2": { "name": "Nessonetta", "twitch": "nessonetta" },
       "races": [
         {
           "raceId": "race1",
-          "player1Seconds": 1820,
-          "player1Kills": 6,
-          "player1Deaths": 1,
-          "player2Seconds": 1765,
-          "player2Kills": 5,
-          "player2Deaths": 0
-        },
-        {
-          "raceId": "race2",
-          "player1Seconds": 1795,
-          "player1Kills": 7,
+          "player1Seconds": 0,
+          "player1Kills": 0,
           "player1Deaths": 0,
-          "player2Seconds": 1810,
-          "player2Kills": 4,
-          "player2Deaths": 2
-        },
-        {
-          "raceId": "race3",
-          "player1Seconds": 1902,
-          "player1Kills": 5,
-          "player1Deaths": 2,
-          "player2Seconds": 1880,
-          "player2Kills": 6,
-          "player2Deaths": 1
-        }
-      ]
-    },
-    {
-      "id": "golden-order",
-      "teamName": "Golden Order",
-      "player1": { "name": "Lucan", "twitch": "lucan_live" },
-      "player2": { "name": "Seris" },
-      "races": [
-        {
-          "raceId": "race1",
-          "player1Seconds": 1750,
-          "player1Kills": 8,
-          "player1Deaths": 0,
-          "player2Seconds": 1800,
-          "player2Kills": 6,
-          "player2Deaths": 1
-        },
-        {
-          "raceId": "race2",
-          "player1Seconds": 1725,
-          "player1Kills": 7,
-          "player1Deaths": 1,
-          "player2Seconds": 1740,
-          "player2Kills": 7,
-          "player2Deaths": 0
-        },
-        {
-          "raceId": "race3",
-          "player1Seconds": 1788,
-          "player1Kills": 6,
-          "player1Deaths": 0,
-          "player2Seconds": 1812,
-          "player2Kills": 6,
-          "player2Deaths": 2
-        }
-      ]
-    },
-    {
-      "id": "crimson-blade",
-      "teamName": "Crimson Blade",
-      "player1": { "name": "Riven" },
-      "player2": { "name": "Thalos", "twitch": "thalos_tv" },
-      "races": [
-        {
-          "raceId": "race1",
-          "player1Seconds": 1890,
-          "player1Kills": 4,
-          "player1Deaths": 2,
-          "player2Seconds": 1925,
-          "player2Kills": 5,
-          "player2Deaths": 1
-        },
-        {
-          "raceId": "race2",
-          "player1Seconds": 1855,
-          "player1Kills": 6,
-          "player1Deaths": 1,
-          "player2Seconds": 1870,
-          "player2Kills": 6,
-          "player2Deaths": 2
-        },
-        {
-          "raceId": "race3",
-          "player1Seconds": 1830,
-          "player1Kills": 7,
-          "player1Deaths": 0,
-          "player2Seconds": 1805,
-          "player2Kills": 5,
-          "player2Deaths": 1
-        }
-      ]
-    },
-    {
-      "id": "veilbreakers",
-      "teamName": "Veilbreakers",
-      "player1": { "name": "Nyx", "twitch": "nyx_speed" },
-      "player2": { "name": "Oren", "twitch": "oren_runs" },
-      "races": [
-        {
-          "raceId": "race1",
-          "player1Seconds": 1705,
-          "player1Kills": 9,
-          "player1Deaths": 0,
-          "player2Seconds": 1730,
-          "player2Kills": 8,
-          "player2Deaths": 0
-        },
-        {
-          "raceId": "race2",
-          "player1Seconds": 1688,
-          "player1Kills": 10,
-          "player1Deaths": 1,
-          "player2Seconds": 1702,
-          "player2Kills": 7,
-          "player2Deaths": 0
-        },
-        {
-          "raceId": "race3",
-          "status": "DNF",
-          "player1Kills": 3,
-          "player1Deaths": 2,
-          "player2Kills": 2,
-          "player2Deaths": 3
-        }
-      ]
-    },
-    {
-      "id": "black-iron",
-      "teamName": "Black Iron Pact",
-      "player1": { "name": "Drex" },
-      "player2": { "name": "Ilya", "twitch": "ilya_live" },
-      "races": [
-        {
-          "raceId": "race1",
-          "player1Seconds": 1950,
-          "player1Kills": 5,
-          "player1Deaths": 1,
-          "player2Seconds": 1985,
-          "player2Kills": 4,
-          "player2Deaths": 2
-        },
-        {
-          "raceId": "race2",
-          "player1Seconds": 1910,
-          "player1Kills": 6,
-          "player1Deaths": 0,
-          "player2Seconds": 1895,
-          "player2Kills": 5,
-          "player2Deaths": 1
-        },
-        {
-          "raceId": "race3",
-          "player1Seconds": 1860,
-          "player1Kills": 7,
-          "player1Deaths": 1,
-          "player2Seconds": 1840,
-          "player2Kills": 6,
+          "player2Seconds": 0,
+          "player2Kills": 0,
           "player2Deaths": 0
         }
       ]

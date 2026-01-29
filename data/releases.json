@@ -10,9 +10,9 @@
           "version": "v1.0",
           "descriptionText": "17 total Shards Needed to finish the race\n7 needed as an individual\n\nGaols, Catacombs, Caves are now Checks\n\nCustom Starting Classes with Unique Weapons",
           "releases": {
-            "descriptionAt": "2026-01-28T05:00:00-06:00",
+            "descriptionAt": "2026-02-04T15:00:00-06:00",
             "downloadAt": "2026-02-04T15:00:00-06:00",
-            "forceDescription": null,
+            "forceDescription": false,
             "forceDownload": null
           },
           "deadlineAt": "2026-02-09T23:59:00-06:00",
@@ -31,7 +31,7 @@
           "version": "v1.0",
           "descriptionText": "Put Week 1 Seed B rules here.\n\nYou can write as much as you want.\nLine breaks work.",
           "releases": {
-            "descriptionAt": "2026-02-04T18:00:00-06:00",
+            "descriptionAt": "2026-02-05T15:00:00-06:00",
             "downloadAt": "2026-02-05T15:00:00-06:00",
             "forceDescription": null,
             "forceDownload": null

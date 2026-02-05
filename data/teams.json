@@ -10,15 +10,7 @@
       "player1": { "name": "Wander", "twitch": "wander652" },
       "player2": { "name": "Nessonetta", "twitch": "nessonetta" },
       "races": [
-        {
-          "raceId": "race1",
-          "player1Seconds": 0,
-          "player1Kills": 0,
-          "player1Deaths": 0,
-          "player2Seconds": 0,
-          "player2Kills": 0,
-          "player2Deaths": 0
-        }
+        { "raceId": "race1", "player1Seconds": 2, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
       ]
     },
     {
@@ -27,15 +19,7 @@
       "player1": { "name": "Rambler", "twitch": "rambler_ing" },
       "player2": { "name": "Nartock", "twitch": "nartock_" },
       "races": [
-        {
-          "raceId": "race1",
-          "player1Seconds": 0,
-          "player1Kills": 0,
-          "player1Deaths": 0,
-          "player2Seconds": 0,
-          "player2Kills": 0,
-          "player2Deaths": 0
-        }
+        { "raceId": "race1", "player1Seconds": 1, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
       ]
     },
     {
@@ -44,15 +28,7 @@
       "player1": { "name": "Helios", "twitch": "lazyhelios" },
       "player2": { "name": "HooZher", "twitch": "hoozher" },
       "races": [
-        {
-          "raceId": "race1",
-          "player1Seconds": 0,
-          "player1Kills": 0,
-          "player1Deaths": 0,
-          "player2Seconds": 0,
-          "player2Kills": 0,
-          "player2Deaths": 0
-        }
+        { "raceId": "race1", "player1Seconds": 3, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
       ]
     },
     {
@@ -61,15 +37,7 @@
       "player1": { "name": "Doitz", "twitch": "baseserpent" },
       "player2": { "name": "Dino", "twitch": "dinossb" },
       "races": [
-        {
-          "raceId": "race1",
-          "player1Seconds": 0,
-          "player1Kills": 0,
-          "player1Deaths": 0,
-          "player2Seconds": 0,
-          "player2Kills": 0,
-          "player2Deaths": 0
-        }
+        { "raceId": "race1", "player1Seconds": 4, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
       ]
     },
     {
@@ -78,7 +46,25 @@
       "player1": { "name": "Harv", "twitch": "harvsouls" },
       "player2": { "name": "Thomas", "twitch": "pluryl" },
       "races": [
-        { "raceId": "race1", "player1Seconds": 0, "player1Kills": 0, "player1Deaths": 0,"player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
+        { "raceId": "race1", "player1Seconds": 5, "player1Kills": 0, "player1Deaths": 0,"player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
+      ]
+    },
+    {
+      "id": "breakpoint",
+      "teamName": "Breaking Point",
+      "player1": { "name": "beagleplays", "twitch": "beagleplays" },
+      "player2": { "name": "itsbackx", "twitch": "itsbackx" },
+      "races": [
+        { "raceId": "race1", "player1Seconds": 6, "player1Kills": 0, "player1Deaths": 0,"player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
+      ]
+    },
+    {
+      "id": "jump",
+      "teamName": "Jimpy Jumpers",
+      "player1": { "name": "Strump", "twitch": "strump1" },
+      "player2": { "name": "Jibbe", "twitch": "jibbebot" },
+      "races": [
+        { "raceId": "race1", "player1Seconds": 7, "player1Kills": 0, "player1Deaths": 0,"player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
       ]
     }
   ]

@@ -20,8 +20,8 @@
       "player1": { "name": "Rambler", "twitch": "rambler_ing" },
       "player2": { "name": "Nartock", "twitch": "nartock_" },
       "races": [
-        { "raceId": "race1", "player1Seconds": 1, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 },
-        { "raceId": "race2", "player1Seconds": 1, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
+        { "raceId": "race1", "player1Seconds": 5620, "player1Kills": 18, "player1Deaths": 5, "player2Seconds": 5910, "player2Kills": 29, "player2Deaths": 6 },
+        { "raceId": "race2", "player1Seconds": 3910, "player1Kills": 12, "player1Deaths": 4, "player2Seconds": 3369, "player2Kills": 13, "player2Deaths": 1 }
       ]
     },
     {

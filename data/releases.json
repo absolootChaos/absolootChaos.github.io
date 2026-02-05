@@ -39,7 +39,7 @@
           "deadlineAt": "2026-02-10T23:59:00-06:00",
           "download": {
             "label": "Download Seed",
-            "url": "/data/fullReleases/AbsolootChaosSeed2.zip"
+            "url": "https://github.com/ignitesouls/AbsolootChaosEvent/releases/tag/Seed2"
           },
           "submit": {
             "label": "Submit Run (Google Form)",

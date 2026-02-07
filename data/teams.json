@@ -66,7 +66,7 @@
       "player1": { "name": "Strump", "twitch": "strump1" },
       "player2": { "name": "Jibbe", "twitch": "jibbebot" },
       "races": [
-        
+        { "raceId": "race1", "player1Seconds": 3, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
       ]
     },
     {
@@ -75,7 +75,7 @@
       "player1": { "name": "x1leff", "twitch": "x1leff" },
       "player2": { "name": "Wadiks", "twitch": "" },
       "races": [
-        { "raceId": "race1", "player1Seconds": 3, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
+        { "raceId": "race1", "player1Seconds": 4, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
       ]
     }
   ]

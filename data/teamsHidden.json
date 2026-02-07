@@ -35,7 +35,7 @@
     },
     {
       "id": "bofa",
-      "teamName": "Bofa D's",
+      "teamName": "The Second Coming of Bofa D's",
       "player1": { "name": "Doitz", "twitch": "baseserpent" },
       "player2": { "name": "Dino", "twitch": "dinossb" },
       "races": [
@@ -67,6 +67,15 @@
       "player2": { "name": "Jibbe", "twitch": "jibbebot" },
       "races": [
         
+      ]
+    },
+    {
+      "id": "summon",
+      "teamName": "Summoning Sigmas",
+      "player1": { "name": "x1leff", "twitch": "x1leff" },
+      "player2": { "name": "Wadiks", "twitch": "" },
+      "races": [
+        { "raceId": "race1", "player1Seconds": 10147, "player1Kills": 28, "player1Deaths": 18, "player2Seconds": 11100, "player2Kills": 15, "player2Deaths": 35 }
       ]
     }
   ]

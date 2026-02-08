@@ -1,5 +1,5 @@
 {
-  "pointsTable": [25, 18, 15, 12, 10, 8, 6, 4, 2, 1],
+  "pointsTable": [25, 18, 15, 12, 10, 8, 6, 4, 2, 2],
   "races": [
     { "raceId": "race1", "label": "Seed 1" },
     { "raceId": "race2", "label": "Seed 2" }
@@ -84,7 +84,7 @@
       "player1": { "name": "Mixed", "twitch": "themixed_" },
       "player2": { "name": "Jeff", "twitch": "jeffqed" },
       "races": [
-        
+        { "raceId": "race1", "player1Seconds": 6973, "player1Kills": 17, "player1Deaths": 10, "player2Seconds": 6635, "player2Kills": 29, "player2Deaths": 6 }
       ]
     }
   ]

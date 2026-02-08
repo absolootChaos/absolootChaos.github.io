@@ -1,5 +1,5 @@
 {
-  "pointsTable": [25, 18, 15, 12, 10, 8, 6, 4, 2, 2],
+  "pointsTable": [30, 23, 20, 17, 15, 13, 11, 9, 7, 5],
   "races": [
     { "raceId": "race1", "label": "Seed 1" },
     { "raceId": "race2", "label": "Seed 2" }
@@ -84,7 +84,17 @@
       "player1": { "name": "Mixed", "twitch": "themixed_" },
       "player2": { "name": "Jeff", "twitch": "jeffqed" },
       "races": [
-        { "raceId": "race1", "player1Seconds": 6973, "player1Kills": 17, "player1Deaths": 10, "player2Seconds": 6635, "player2Kills": 29, "player2Deaths": 6 }
+        { "raceId": "race1", "player1Seconds": 6973, "player1Kills": 17, "player1Deaths": 10, "player2Seconds": 6635, "player2Kills": 29, "player2Deaths": 6 },
+        { "raceId": "race2", "player1Seconds": 6675, "player1Kills": 16, "player1Deaths": 6, "player2Seconds": 6370, "player2Kills": 20, "player2Deaths": 15 }
+      ]
+    },
+    {
+      "id": "dltrry",
+      "teamName": "dltrry",
+      "player1": { "name": "Vord_SR", "twitch": "vord_sr" },
+      "player2": { "name": "LetsPrepareToTry", "twitch": "letspreparetotry" },
+      "races": [
+        
       ]
     }
   ]

@@ -1,0 +1,159 @@
+{
+  "pointsTable": [25, 18, 15, 12, 10, 8, 6, 4, 2, 1],
+  "races": [
+    { "raceId": "seed1", "label": "Seed 1" },
+    { "raceId": "seed2", "label": "Seed 2" }
+  ],
+  "teams": [
+    {
+      "id": "whimsical",
+      "teamName": "The Whimsical Wandetta",
+      "player1": { "name": "Wander", "twitch": "wander652" },
+      "player2": { "name": "Nessonetta", "twitch": "nessonetta" },
+      "races": [
+        {
+          "raceId": "seed1",
+          "label": "Seed 1",
+          "player1Seconds": 3520,
+          "player2Seconds": 3494,
+          "player1Kills": 13,
+          "player2Kills": 11,
+          "player1Deaths": 2,
+          "player2Deaths": 1,
+          "status": "OK"
+        },
+        {
+          "raceId": "seed2",
+          "label": "Seed 2",
+          "player1Seconds": 3390,
+          "player2Seconds": 3412,
+          "player1Kills": 15,
+          "player2Kills": 10,
+          "player1Deaths": 1,
+          "player2Deaths": 3,
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "id": "wampwamp",
+      "teamName": "Team Wamp Wamp",
+      "player1": { "name": "Strump", "twitch": "strump" },
+      "player2": { "name": "Wamp", "twitch": "wamp" },
+      "races": [
+        {
+          "raceId": "seed1",
+          "label": "Seed 1",
+          "player1Seconds": 3531,
+          "player2Seconds": 3507,
+          "player1Kills": 12,
+          "player2Kills": 12,
+          "player1Deaths": 2,
+          "player2Deaths": 2,
+          "status": "OK"
+        },
+        {
+          "raceId": "seed2",
+          "label": "Seed 2",
+          "player1Seconds": 3450,
+          "player2Seconds": 3446,
+          "player1Kills": 14,
+          "player2Kills": 9,
+          "player1Deaths": 2,
+          "player2Deaths": 2,
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "id": "abyssal",
+      "teamName": "Abyssal Aces",
+      "player1": { "name": "Nyx", "twitch": "nyx_tv" },
+      "player2": { "name": "Rony", "twitch": "rony" },
+      "races": [
+        {
+          "raceId": "seed1",
+          "label": "Seed 1",
+          "player1Seconds": 3608,
+          "player2Seconds": 3620,
+          "player1Kills": 10,
+          "player2Kills": 9,
+          "player1Deaths": 3,
+          "player2Deaths": 4,
+          "status": "OK"
+        },
+        {
+          "raceId": "seed2",
+          "label": "Seed 2",
+          "player1Seconds": 3401,
+          "player2Seconds": 3430,
+          "player1Kills": 11,
+          "player2Kills": 12,
+          "player1Deaths": 2,
+          "player2Deaths": 1,
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "id": "sunforged",
+      "teamName": "Sunforged Sprinters",
+      "player1": { "name": "Kuro", "twitch": "kuroplays" },
+      "player2": { "name": "Mina", "twitch": "minastreams" },
+      "races": [
+        {
+          "raceId": "seed1",
+          "label": "Seed 1",
+          "player1Seconds": 3720,
+          "player2Seconds": 3711,
+          "player1Kills": 8,
+          "player2Kills": 9,
+          "player1Deaths": 4,
+          "player2Deaths": 3,
+          "status": "OK"
+        },
+        {
+          "raceId": "seed2",
+          "label": "Seed 2",
+          "player1Seconds": 3512,
+          "player2Seconds": 3490,
+          "player1Kills": 9,
+          "player2Kills": 11,
+          "player1Deaths": 3,
+          "player2Deaths": 2,
+          "status": "OK"
+        }
+      ]
+    },
+    {
+      "id": "dnfcrew",
+      "teamName": "The DNF Crew",
+      "player1": { "name": "Bolt", "twitch": "boltfast" },
+      "player2": { "name": "Echo", "twitch": "echo_runs" },
+      "races": [
+        {
+          "raceId": "seed1",
+          "label": "Seed 1",
+          "player1Seconds": null,
+          "player2Seconds": 3555,
+          "player1Kills": 7,
+          "player2Kills": 10,
+          "player1Deaths": 0,
+          "player2Deaths": 2,
+          "status": "DNF"
+        },
+        {
+          "raceId": "seed2",
+          "label": "Seed 2",
+          "player1Seconds": null,
+          "player2Seconds": null,
+          "player1Kills": 0,
+          "player2Kills": 0,
+          "player1Deaths": 0,
+          "player2Deaths": 0,
+          "status": "DNS"
+        }
+      ]
+    }
+  ]
+}

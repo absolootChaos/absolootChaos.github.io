@@ -39,7 +39,7 @@
       "player1": { "name": "Doitz", "twitch": "baseserpent" },
       "player2": { "name": "Dino", "twitch": "dinossb" },
       "races": [
-        
+        { "raceId": "race1", "player1Seconds": 5945, "player1Kills": 24, "player1Deaths": 13, "player2Seconds": 5615, "player2Kills": 21, "player2Deaths": 6 }
       ]
     },
     {
@@ -76,6 +76,15 @@
       "player2": { "name": "Wadiks", "twitch": "" },
       "races": [
         { "raceId": "race1", "player1Seconds": 10147, "player1Kills": 28, "player1Deaths": 18, "player2Seconds": 11100, "player2Kills": 15, "player2Deaths": 35 }
+      ]
+    },
+    {
+      "id": "elysee",
+      "teamName": "Élysée Treatyy",
+      "player1": { "name": "Mixed", "twitch": "themixed_" },
+      "player2": { "name": "Jeff", "twitch": "jeffqed" },
+      "races": [
+        
       ]
     }
   ]

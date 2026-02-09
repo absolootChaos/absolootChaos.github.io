@@ -40,7 +40,8 @@
       "player1": { "name": "Doitz", "twitch": "baseserpent" },
       "player2": { "name": "Dino", "twitch": "dinossb" },
       "races": [
-        { "raceId": "race1", "player1Seconds": 5945, "player1Kills": 24, "player1Deaths": 13, "player2Seconds": 5615, "player2Kills": 21, "player2Deaths": 6 }
+        { "raceId": "race1", "player1Seconds": 5945, "player1Kills": 24, "player1Deaths": 13, "player2Seconds": 5615, "player2Kills": 21, "player2Deaths": 6 },
+        { "raceId": "race2", "player1Seconds": 4891, "player1Kills": 17, "player1Deaths": 4, "player2Seconds": 4950, "player2Kills": 16, "player2Deaths": 9 }
       ]
     },
     {
@@ -59,7 +60,7 @@
       "player1": { "name": "beagleplays", "twitch": "beagleplays" },
       "player2": { "name": "itsbackx", "twitch": "itsbackx" },
       "races": [
-        
+        { "raceId": "race1", "player1Seconds": 9635, "player1Kills": 20, "player1Deaths": 23, "player2Seconds": 9650, "player2Kills": 28, "player2Deaths": 20 }
       ]
     },
     {
@@ -88,7 +89,7 @@
       "player2": { "name": "Jeff", "twitch": "jeffqed" },
       "races": [
         { "raceId": "race1", "player1Seconds": 6973, "player1Kills": 17, "player1Deaths": 10, "player2Seconds": 6635, "player2Kills": 29, "player2Deaths": 6 },
-        { "raceId": "race2", "player1Seconds": 6675, "player1Kills": 16, "player1Deaths": 6, "player2Seconds": 6370, "player2Kills": 20, "player2Deaths": 15 }
+        { "raceId": "race2", "player1Seconds": 6675, "player1Kills": 16, "player1Deaths": 6, "player2Seconds": 6370, "player2Kills": 20, "player2Deaths": 15, "bonusPoints": 1 }
       ]
     },
     {
@@ -97,7 +98,7 @@
       "player1": { "name": "Vord_SR", "twitch": "vord_sr" },
       "player2": { "name": "LetsPrepareToTry", "twitch": "letspreparetotry" },
       "races": [
-        
+        { "raceId": "race1", "player1Seconds": 7262, "player1Kills": 29, "player1Deaths": 6, "player2Seconds": 7888, "player2Kills": 19, "player2Deaths": 19 }
       ]
     },
     {

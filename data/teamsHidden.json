@@ -1,5 +1,5 @@
 {
-  "pointsTable": [30, 23, 20, 17, 15, 13, 11, 9, 7, 5],
+  "pointsTable": [50, 45, 41, 37, 34, 31, 28, 25, 22, 19, 15, 10],
   "races": [
     { "raceId": "race1", "label": "Seed 1" },
     { "raceId": "race2", "label": "Seed 2" }
@@ -49,7 +49,8 @@
       "player1": { "name": "Harv", "twitch": "harvsouls" },
       "player2": { "name": "Thomas", "twitch": "pluryl" },
       "races": [
-        { "raceId": "race1", "player1Seconds": 5419, "player1Kills": 20, "player1Deaths": 3, "player2Seconds": 5731, "player2Kills": 26, "player2Deaths": 2 }
+        { "raceId": "race1", "player1Seconds": 5419, "player1Kills": 20, "player1Deaths": 3, "player2Seconds": 5731, "player2Kills": 26, "player2Deaths": 2 },
+        { "raceId": "race2", "player1Seconds": 5811, "player1Kills": 16, "player1Deaths": 10, "player2Seconds": 5735, "player2Kills": 21, "player2Deaths": 9 }
       ]
     },
     {
@@ -97,6 +98,15 @@
       "player2": { "name": "LetsPrepareToTry", "twitch": "letspreparetotry" },
       "races": [
         
+      ]
+    },
+    {
+      "id": "forsure",
+      "teamName": "For Sure",
+      "player1": { "name": "Typin", "twitch": "typin__" },
+      "player2": { "name": "Kiofto", "twitch": "kiofto" },
+      "races": [
+
       ]
     }
   ]

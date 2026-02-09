@@ -1,5 +1,5 @@
 {
-  "pointsTable": [30, 23, 20, 17, 15, 13, 11, 9, 7, 5],
+  "pointsTable": [50, 45, 41, 37, 34, 31, 28, 25, 22, 19, 15, 10],
   "races": [
     { "raceId": "race1", "label": "Seed 1" },
     { "raceId": "race2", "label": "Seed 2" }
@@ -49,7 +49,8 @@
       "player1": { "name": "Harv", "twitch": "harvsouls" },
       "player2": { "name": "Thomas", "twitch": "pluryl" },
       "races": [
-        { "raceId": "race1", "player1Seconds": 2, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
+        { "raceId": "race1", "player1Seconds": 2, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 },
+        { "raceId": "race2", "player1Seconds": 4, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
       ]
     },
     {
@@ -87,7 +88,7 @@
       "player2": { "name": "Jeff", "twitch": "jeffqed" },
       "races": [
         { "raceId": "race1", "player1Seconds": 6, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 },
-        { "raceId": "race2", "player1Seconds": 4, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
+        { "raceId": "race2", "player1Seconds": 5, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
       ]
     },
     {
@@ -95,6 +96,15 @@
       "teamName": "dltrry",
       "player1": { "name": "Vord_SR", "twitch": "vord_sr" },
       "player2": { "name": "LetsPrepareToTry", "twitch": "letspreparetotry" },
+      "races": [
+
+      ]
+    },
+    {
+      "id": "forsure",
+      "teamName": "For Sure",
+      "player1": { "name": "Typin", "twitch": "typin__" },
+      "player2": { "name": "Kiofto", "twitch": "kiofto" },
       "races": [
 
       ]

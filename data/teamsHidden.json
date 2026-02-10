@@ -60,7 +60,8 @@
       "player1": { "name": "beagleplays", "twitch": "beagleplays" },
       "player2": { "name": "itsbackx", "twitch": "itsbackx" },
       "races": [
-        { "raceId": "race1", "player1Seconds": 9635, "player1Kills": 20, "player1Deaths": 23, "player2Seconds": 9650, "player2Kills": 28, "player2Deaths": 20 }
+        { "raceId": "race1", "player1Seconds": 9635, "player1Kills": 20, "player1Deaths": 23, "player2Seconds": 9650, "player2Kills": 28, "player2Deaths": 20 },
+        { "raceId": "race2", "player1Seconds": 6510, "player1Kills": 15, "player1Deaths": 11, "player2Seconds": 6067, "player2Kills": 16, "player2Deaths": 9 }
       ]
     },
     {
@@ -79,7 +80,8 @@
       "player1": { "name": "x1leff", "twitch": "x1leff" },
       "player2": { "name": "Wadiks", "twitch": "" },
       "races": [
-        { "raceId": "race1", "player1Seconds": 10147, "player1Kills": 28, "player1Deaths": 18, "player2Seconds": 11100, "player2Kills": 15, "player2Deaths": 35 }
+        { "raceId": "race1", "player1Seconds": 10147, "player1Kills": 28, "player1Deaths": 18, "player2Seconds": 11100, "player2Kills": 15, "player2Deaths": 35 },
+        { "raceId": "race2", "player1Seconds": 4882, "player1Kills": 11, "player1Deaths": 17, "player2Seconds": 6833, "player2Kills": 9, "player2Deaths": 33 }
       ]
     },
     {

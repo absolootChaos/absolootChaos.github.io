@@ -11,7 +11,7 @@
       "player1": { "name": "Wander", "twitch": "wander652" },
       "player2": { "name": "Nessonetta", "twitch": "nessonetta" },
       "races": [
-        
+        { "raceId": "race1", "player1Seconds": 6, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
       ]
     },
     {
@@ -60,7 +60,7 @@
       "player1": { "name": "beagleplays", "twitch": "beagleplays" },
       "player2": { "name": "itsbackx", "twitch": "itsbackx" },
       "races": [
-        { "raceId": "race1", "player1Seconds": 8, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
+        { "raceId": "race1", "player1Seconds": 9, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
       ]
     },
     {
@@ -79,7 +79,7 @@
       "player1": { "name": "x1leff", "twitch": "x1leff" },
       "player2": { "name": "Wadiks", "twitch": "" },
       "races": [
-        { "raceId": "race1", "player1Seconds": 9, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
+        { "raceId": "race1", "player1Seconds": 10, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
       ]
     },
     {
@@ -88,7 +88,7 @@
       "player1": { "name": "Mixed", "twitch": "themixed_" },
       "player2": { "name": "Jeff", "twitch": "jeffqed" },
       "races": [
-        { "raceId": "race1", "player1Seconds": 6, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 },
+        { "raceId": "race1", "player1Seconds": 7, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 },
         { "raceId": "race2", "player1Seconds": 6, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0, "bonusPoints": 1 }
       ]
     },
@@ -98,7 +98,7 @@
       "player1": { "name": "Vord_SR", "twitch": "vord_sr" },
       "player2": { "name": "LetsPrepareToTry", "twitch": "letspreparetotry" },
       "races": [
-          { "raceId": "race1", "player1Seconds": 7, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
+          { "raceId": "race1", "player1Seconds": 8, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
       ]
     },
     {

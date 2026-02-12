@@ -13,7 +13,7 @@
             "descriptionAt": "2026-02-04T15:00:00-06:00",
             "downloadAt": "2026-02-04T15:00:00-06:00",
             "forceDescription": true,
-            "forceDownload": false
+            "forceDownload": null
           },
           "deadlineAt": "2026-02-10T23:59:00-06:00",
           "download": {
@@ -34,7 +34,7 @@
             "descriptionAt": "2026-02-05T15:00:00-03:00",
             "downloadAt": "2026-02-05T15:00:00-03:00",
             "forceDescription": null,
-            "forceDownload": false
+            "forceDownload": null
           },
           "deadlineAt": "2026-02-10T23:59:00-06:00",
           "download": {
@@ -74,9 +74,9 @@
         },
         {
           "id": "w2s4",
-          "title": "Seed 4 - Classified",
+          "title": "Seed 4 - Eastern Cerulean Route",
           "version": "v1.0",
-          "descriptionText": "",
+          "descriptionText": "17 Unique Shards are required to defeat the Consort replacement.\n7 Shards are needed individually to burn the Sealing Tree.\n\nMessmer must be killed by at least one player on the team.\nWe called in a favor to give you +24/+9 Starting Weapons\n\nSeek not the place you swore you knew,\nIts echo now is laggin’.\nSlumber awakens the Dragon and Madness abandons the eye,\nTheir hidden paths shift dusk to dawn beneath a broken sky.",
           "releases": {
             "descriptionAt": "2026-02-12T15:00:00-03:00",
             "downloadAt": "2026-02-12T15:00:00-03:00",
@@ -86,7 +86,7 @@
           "deadlineAt": "2026-02-17T23:59:00-06:00",
           "download": {
             "label": "Download Seed",
-            "url": ""
+            "url": "https://github.com/ignitesouls/AbsolootChaosEvent/releases/tag/Seed4"
           },
           "submit": {
             "label": "Submit Run (Google Form)",

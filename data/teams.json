@@ -3,7 +3,8 @@
   "races": [
     { "raceId": "race1", "label": "Seed 1" },
     { "raceId": "race2", "label": "Seed 2" },
-    { "raceId": "race3", "label": "Seed 3" }
+    { "raceId": "race3", "label": "Seed 3" },
+    { "raceId": "race4", "label": "Seed 4" }
   ],
   "teams": [
     {

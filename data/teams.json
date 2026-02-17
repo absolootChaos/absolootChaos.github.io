@@ -50,7 +50,8 @@
       "races": [
         { "raceId": "race1", "player1Seconds": 5945, "player1Kills": 24, "player1Deaths": 13, "player2Seconds": 5615, "player2Kills": 21, "player2Deaths": 6 },
         { "raceId": "race2", "player1Seconds": 4891, "player1Kills": 17, "player1Deaths": 4, "player2Seconds": 4950, "player2Kills": 16, "player2Deaths": 9 },
-        { "raceId": "race3", "player1Seconds": 5, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
+        { "raceId": "race3", "player1Seconds": 5, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 },
+        { "raceId": "race4", "player1Seconds": 5, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
       ]
     },
     {
@@ -74,7 +75,7 @@
         { "raceId": "race1", "player1Seconds": 9635, "player1Kills": 20, "player1Deaths": 23, "player2Seconds": 9650, "player2Kills": 28, "player2Deaths": 20 },
         { "raceId": "race2", "player1Seconds": 6510, "player1Kills": 15, "player1Deaths": 11, "player2Seconds": 6067, "player2Kills": 16, "player2Deaths": 9 },
         { "raceId": "race3", "player1Seconds": 10, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 },
-        { "raceId": "race4", "player1Seconds": 7, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
+        { "raceId": "race4", "player1Seconds": 8, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
       ]
     },
     {
@@ -98,7 +99,7 @@
         { "raceId": "race1", "player1Seconds": 10147, "player1Kills": 28, "player1Deaths": 18, "player2Seconds": 11100, "player2Kills": 15, "player2Deaths": 35 },
         { "raceId": "race2", "player1Seconds": 4882, "player1Kills": 11, "player1Deaths": 17, "player2Seconds": 6833, "player2Kills": 9, "player2Deaths": 33 },
         { "raceId": "race3", "player1Seconds": 11, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 },
-        { "raceId": "race4", "player1Seconds": 8, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
+        { "raceId": "race4", "player1Seconds": 9, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
       ]
     },
     {
@@ -110,7 +111,7 @@
         { "raceId": "race1", "player1Seconds": 6973, "player1Kills": 17, "player1Deaths": 10, "player2Seconds": 6635, "player2Kills": 29, "player2Deaths": 6 },
         { "raceId": "race2", "player1Seconds": 6675, "player1Kills": 16, "player1Deaths": 6, "player2Seconds": 6370, "player2Kills": 20, "player2Deaths": 15, "bonusPoints": 1 },
         { "raceId": "race3", "player1Seconds": 6, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 },
-        { "raceId": "race4", "player1Seconds": 5, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
+        { "raceId": "race4", "player1Seconds": 6, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
       ]
     },
     {
@@ -133,7 +134,7 @@
           { "raceId": "race1", "player1Seconds": 7341, "player1Kills": 19, "player1Deaths": 12, "player2Seconds": 7923, "player2Kills": 25, "player2Deaths": 6 },
           { "raceId": "race2", "player1Seconds": 7907, "player1Kills": 23, "player1Deaths": 15, "player2Seconds": 8026, "player2Kills": 18, "player2Deaths": 14, "bonusPoints": 1 },
           { "raceId": "race3", "player1Seconds": 7, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 },
-          { "raceId": "race4", "player1Seconds": 6, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
+          { "raceId": "race4", "player1Seconds": 7, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
       ]
     }
   ]

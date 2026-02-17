@@ -94,6 +94,53 @@
           }
         }
       ]
+    },
+    {
+      "week": 3,
+      "seeds": [
+        {
+          "id": "w3s5",
+          "title": "Seed 5 - Classified Competitive",
+          "version": "v1.0",
+          "descriptionText": "17 Unique Shards are required to defeat the Consort replacement.\n7 Shards are needed individually to burn the Sealing Tree.\n\nMessmer Replacement must be killed by at least one player on the team.\n\nO Mother Checker was used, meaning the O Mother emote cannot appear at:\n• Messmer\n• Gauis\n• Jori\n• Midra\n• PK\n• Sennsesax\n• Bayle\n\nTorrent is allowed in more places than not — make sure to use your trusty steed.\n\nSome Major Rules are broken in this seed:\nYou ARE allowed to start the same class and use the same weapons.\n\nAuto-Equip is enabled. You may pick up any items and freely remove any weapons, armor, or talismans that are automatically equipped.\n\nYour FIRST boss kill must be done using the Lordsworn Greatsword, which is fully upgraded.\n\nBosses now define your loadout:\n• Every boss drops a weapon that matches them (ex: Fire Giant → Giant’s Red Braid, Dragonkin → Dragonscale Blade)\n• You may ONLY use weapons dropped directly from the boss you last killed\n• Finding the same weapon in the overworld does NOT count\n• All Weapons Dropped by Bosses will be Upgraded to the Max\n\nWeapon progression rules:\n• If you pick up another weapon between bosses, you MUST swap back to your last boss weapon before the next boss fight\n• After killing a boss, you must use the newly dropped boss weapon until the next boss drops a replacement.",
+          "releases": {
+            "descriptionAt": "2026-02-18T15:00:00-03:00",
+            "downloadAt": "2026-02-18T15:00:00-03:00",
+            "forceDescription": null,
+            "forceDownload": null
+          },
+          "deadlineAt": "2026-02-24T23:59:00-06:00",
+          "download": {
+            "label": "Download Seed",
+            "url": ""
+          },
+          "submit": {
+            "label": "Submit Run (Google Form)",
+            "formUrl": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform"
+          }
+        },
+        {
+          "id": "w3s6",
+          "title": "Seed 6 - Classified Competitive",
+          "version": "v1.0",
+          "descriptionText": "",
+          "releases": {
+            "descriptionAt": "2026-02-19T15:00:00-03:00",
+            "downloadAt": "2026-02-19T15:00:00-03:00",
+            "forceDescription": null,
+            "forceDownload": null
+          },
+          "deadlineAt": "2026-02-24T23:59:00-06:00",
+          "download": {
+            "label": "Download Seed",
+            "url": ""
+          },
+          "submit": {
+            "label": "Submit Run (Google Form)",
+            "formUrl": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform"
+          }
+        }
+      ]
     }
   ]
 }

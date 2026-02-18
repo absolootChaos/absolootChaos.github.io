@@ -107,7 +107,7 @@
             "descriptionAt": "2026-02-18T15:00:00-03:00",
             "downloadAt": "2026-02-18T15:00:00-03:00",
             "forceDescription": true,
-            "forceDownload": false
+            "forceDownload": true
           },
           "deadlineAt": "2026-02-24T23:59:00-06:00",
           "download": {
@@ -115,8 +115,8 @@
             "url": "https://github.com/ignitesouls/AbsolootChaosEvent/releases/tag/Seed5"
           },
           "submit": {
-            "label": "Submit Run",
-            "formUrl": ""
+            "label": "Submit Run (Google Form)",
+            "formUrl": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform"
           }
         },
         {

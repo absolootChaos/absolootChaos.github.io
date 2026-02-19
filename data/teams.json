@@ -90,7 +90,8 @@
         { "raceId": "race1", "player1Seconds": 5777, "player1Kills": 24, "player1Deaths": 1, "player2Seconds": 5780, "player2Kills": 21, "player2Deaths": 7 },
         { "raceId": "race2", "player1Seconds": 3955, "player1Kills": 10, "player1Deaths": 5, "player2Seconds": 3695, "player2Kills": 12, "player2Deaths": 7 },
         { "raceId": "race3", "player1Seconds": 4228, "player1Kills": 17, "player1Deaths": 6, "player2Seconds": 5017, "player2Kills": 18, "player2Deaths": 8 },
-        { "raceId": "race4", "player1Seconds": 4010, "player1Kills": 17, "player1Deaths": 4, "player2Seconds": 5155, "player2Kills": 22, "player2Deaths": 4 }
+        { "raceId": "race4", "player1Seconds": 4010, "player1Kills": 17, "player1Deaths": 4, "player2Seconds": 5155, "player2Kills": 22, "player2Deaths": 4 },
+        { "raceId": "race5", "player1Seconds": 2, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
       ]
     },
     {
@@ -103,7 +104,7 @@
         { "raceId": "race2", "player1Seconds": 4882, "player1Kills": 11, "player1Deaths": 17, "player2Seconds": 6833, "player2Kills": 9, "player2Deaths": 33 },
         { "raceId": "race3", "player1Seconds": 8765, "player1Kills": 16, "player1Deaths": 18, "player2Seconds": 8224, "player2Kills": 26, "player2Deaths": 16 },
         { "raceId": "race4", "player1Seconds": 7973, "player1Kills": 30, "player1Deaths": 17, "player2Seconds": 8901, "player2Kills": 15, "player2Deaths": 37 },
-        { "raceId": "race5", "player1Seconds": 2, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
+        { "raceId": "race5", "player1Seconds": 3, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 0, "player2Kills": 0, "player2Deaths": 0 }
       ]
     },
     {

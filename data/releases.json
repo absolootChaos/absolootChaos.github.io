@@ -127,13 +127,13 @@
           "releases": {
             "descriptionAt": "2026-02-19T15:00:00-03:00",
             "downloadAt": "2026-02-19T15:00:00-03:00",
-            "forceDescription": null,
-            "forceDownload": null
+            "forceDescription": true,
+            "forceDownload": true
           },
           "deadlineAt": "2026-02-24T23:59:00-06:00",
           "download": {
             "label": "Download Seed",
-            "url": ""
+            "url": "https://github.com/ignitesouls/AbsolootChaosEvent/releases/tag/Seed6"
           },
           "submit": {
             "label": "Submit Run (Google Form)",

@@ -6,7 +6,8 @@
     { "raceId": "race3", "label": "Seed 3" },
     { "raceId": "race4", "label": "Seed 4" },
     { "raceId": "race5", "label": "Seed 5" },
-    { "raceId": "race6", "label": "Seed 6" }
+    { "raceId": "race6", "label": "Seed 6" },
+    { "raceId": "race7", "label": "Seed 7" }
   ],
   "teams": [
     {

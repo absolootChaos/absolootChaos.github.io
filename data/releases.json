@@ -141,6 +141,52 @@
           }
         }
       ]
+    },
+    {
+      "week": 4,
+      "seeds": [
+        {
+          "id": "w4s7",
+          "title": "Seed 7 - CORRUPT.EXE",
+          "version": "v1.0",
+            "descriptionText": "This seed was corrupted during creation. Not everything is where it should be, and not everything is what it seems. We managed to recover fragments of the original description:\n\n• There are 17 Unique Shards in this seed\n• 17 Shards are required as a Team to burn the Sealing Tree\n• The goal is for BOTH players to defeat the Consort Replacement\n\nO Mother Checker was used… but the results were lost.\n\nMessmer Replacement must be killed by at least one player on the team.\n\nThe Last Seed of 17 as the End draws near\nNot Much can save you from fear\nWhere the Burden is Heavy and it's not cold\nThe Last Golden Remnant is beneath The Globe\nThe Seed seeks to consume all to damnation\nPerhaps the Globe is your only salvation.",          "releases": {
+            "descriptionAt": "2026-02-25T15:00:00-03:00",
+            "downloadAt": "2026-02-25T15:00:00-03:00",
+            "forceDescription": null,
+            "forceDownload": null
+          },
+          "deadlineAt": "2026-03-03T23:59:00-06:00",
+          "download": {
+            "label": "Download Seed",
+            "url": "https://github.com/ignitesouls/AbsolootChaosEvent/releases/tag/Seed7"
+          },
+          "submit": {
+            "label": "Submit Run (Google Form)",
+            "formUrl": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform"
+          }
+        },
+        {
+          "id": "w4s8",
+          "title": "Seed 8 - AbsoLOOT Finale",
+          "version": "v1.0",
+          "descriptionText": "17 Unique Shards required to finish the race to defeat the Consort replacement.\n7 Shards are required individually to burn the Sealing Tree.\n\nMessmer Replacement must be killed by at least one player on the team.\n\nO Mother Checker was used, meaning the O Mother emote cannot be at:\n• Messmer\n• Gauis\n• Jori\n• Midra\n• PK\n• Senessax\n• Bayle\n\nThere are two of me.\nOne was not recognized.\nThe other marks an end.\nConfusion has been weaponized\nTo test a new front-end.",
+          "releases": {
+            "descriptionAt": "2026-02-26T15:00:00-03:00",
+            "downloadAt": "2026-02-26T15:00:00-03:00",
+            "forceDescription": null,
+            "forceDownload": null
+          },
+          "deadlineAt": "2026-03-03T23:59:00-06:00",
+          "download": {
+            "label": "Download Seed",
+            "url": "https://github.com/ignitesouls/AbsolootChaosEvent/releases/tag/Seed8"
+          },
+          "submit": {
+            "label": "Submit Run (Google Form)",
+            "formUrl": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform"
+          }
+        }
+      ]
     }
   ]
 }

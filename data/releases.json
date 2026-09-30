@@ -19,10 +19,6 @@
           "download": {
             "label": "Download Seed",
             "url": "https://github.com/ignitesouls/AbsolootChaosEvent/releases/tag/Seed1"
-          },
-          "submit": {
-            "label": "Submit Run (Google Form)",
-            "formUrl": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform"
           }
         },
         {
@@ -40,10 +36,6 @@
           "download": {
             "label": "Download Seed",
             "url": "https://github.com/ignitesouls/AbsolootChaosEvent/releases/tag/Seed2"
-          },
-          "submit": {
-            "label": "Submit Run (Google Form)",
-            "formUrl": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform"
           }
         }
       ]
@@ -66,10 +58,6 @@
           "download": {
             "label": "Download Seed",
             "url": "https://github.com/ignitesouls/AbsolootChaosEvent/releases/tag/Seed3"
-          },
-          "submit": {
-            "label": "Submit Run (Google Form)",
-            "formUrl": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform"
           }
         },
         {
@@ -87,10 +75,6 @@
           "download": {
             "label": "Download Seed",
             "url": "https://github.com/ignitesouls/AbsolootChaosEvent/releases/tag/Seed4"
-          },
-          "submit": {
-            "label": "Submit Run (Google Form)",
-            "formUrl": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform"
           }
         }
       ]
@@ -113,10 +97,6 @@
           "download": {
             "label": "Download Seed",
             "url": "https://github.com/ignitesouls/AbsolootChaosEvent/releases/tag/Seed5"
-          },
-          "submit": {
-            "label": "Submit Run (Google Form)",
-            "formUrl": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform"
           }
         },
         {
@@ -134,10 +114,6 @@
           "download": {
             "label": "Download Seed",
             "url": "https://github.com/ignitesouls/AbsolootChaosEvent/releases/tag/Seed6"
-          },
-          "submit": {
-            "label": "Submit Run (Google Form)",
-            "formUrl": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform"
           }
         }
       ]
@@ -159,10 +135,6 @@
           "download": {
             "label": "Download Seed",
             "url": "https://github.com/ignitesouls/AbsolootChaosEvent/releases/tag/Seed7"
-          },
-          "submit": {
-            "label": "Submit Run (Google Form)",
-            "formUrl": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform"
           }
         },
         {
@@ -180,10 +152,6 @@
           "download": {
             "label": "Download Seed",
             "url": "https://github.com/ignitesouls/AbsolootChaosEvent/releases/tag/Seed8"
-          },
-          "submit": {
-            "label": "Submit Run (Google Form)",
-            "formUrl": "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform"
           }
         }
       ]

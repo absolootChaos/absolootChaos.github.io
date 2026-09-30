@@ -1,0 +1,126 @@
+{
+  "pointsTable": [50, 45, 41, 37, 34, 31, 28, 25, 22, 19, 15, 10],
+  "races": [
+    { "raceId": "race1", "label": "Seed 1" },
+    { "raceId": "race2", "label": "Seed 2" },
+    { "raceId": "race3", "label": "Seed 3" }
+  ],
+  "teams": [
+    {
+      "id": "teaminnovation",
+      "teamName": "Team Innovation",
+      "player1": { "name": "Shura", "twitch": "" },
+      "player2": { "name": "Nartock", "twitch": "" },
+      "races": [
+        { "raceId": "race1", "player1Seconds": 4524, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 4884, "player2Kills": 0, "player2Deaths": 0 },
+        { "raceId": "race2", "player1Seconds": 4354, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 4686, "player2Kills": 0, "player2Deaths": 0 },
+        { "raceId": "race3", "player1Seconds": 4579, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 4561, "player2Kills": 0, "player2Deaths": 0 }
+      ]
+    },
+    {
+      "id": "musicmakers",
+      "teamName": "Music Makers",
+      "player1": { "name": "Elymis", "twitch": "" },
+      "player2": { "name": "Wander", "twitch": "" },
+      "races": [
+        { "raceId": "race1", "player1Seconds": 5132, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 4596, "player2Kills": 0, "player2Deaths": 0 }
+      ]
+    },
+    {
+      "id": "disappointmentrandomizerlegion",
+      "teamName": "Disappointment Randomizer Legion",
+      "player1": { "name": "HooZher", "twitch": "" },
+      "player2": { "name": "PhiPhi", "twitch": "" },
+      "races": [
+        { "raceId": "race1", "player1Seconds": 5075, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 4767, "player2Kills": 0, "player2Deaths": 0 },
+        { "raceId": "race2", "player1Seconds": 4564, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 4917, "player2Kills": 0, "player2Deaths": 0 },
+        { "raceId": "race3", "player1Seconds": 3947, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 4469, "player2Kills": 0, "player2Deaths": 0 }
+      ]
+    },
+    {
+      "id": "fartsmellas",
+      "teamName": "Fart Smellas",
+      "player1": { "name": "Josh~", "twitch": "" },
+      "player2": { "name": "Rony", "twitch": "" },
+      "races": [
+        { "raceId": "race1", "player1Seconds": 4840, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 5216, "player2Kills": 0, "player2Deaths": 0 }
+      ]
+    },
+    {
+      "id": "elyseetreatyyy",
+      "teamName": "Élysée Treatyyy",
+      "player1": { "name": "theMixed_", "twitch": "" },
+      "player2": { "name": "jeffqed", "twitch": "" },
+      "races": [
+        { "raceId": "race1", "player1Seconds": 4894, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 5442, "player2Kills": 0, "player2Deaths": 0 }
+      ]
+    },
+    {
+      "id": "brosimumutile",
+      "teamName": "Brosimum Utile",
+      "player1": { "name": "Vakrash", "twitch": "" },
+      "player2": { "name": "Strump", "twitch": "" },
+      "races": [
+        { "raceId": "race1", "player1Seconds": 5326, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 5620, "player2Kills": 0, "player2Deaths": 0 }
+      ]
+    },
+    {
+      "id": "incoherrentidiots",
+      "teamName": "Incoherrent Idiots",
+      "player1": { "name": "Lukas", "twitch": "" },
+      "player2": { "name": "Fun", "twitch": "" },
+      "races": [
+        { "raceId": "race1", "player1Seconds": 5853, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 5111, "player2Kills": 0, "player2Deaths": 0 },
+        { "raceId": "race2", "player1Seconds": 5358, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 5162, "player2Kills": 0, "player2Deaths": 0 }
+      ]
+    },
+    {
+      "id": "brainbrawl",
+      "teamName": "Brain & Brawl",
+      "player1": { "name": "Dino", "twitch": "" },
+      "player2": { "name": "Rambler", "twitch": "" },
+      "races": [
+        { "raceId": "race1", "player1Seconds": 5195, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 5973, "player2Kills": 0, "player2Deaths": 0 }
+      ]
+    },
+    {
+      "id": "dltrrylpttvord",
+      "teamName": "dltrry (LPTT & Vord)",
+      "player1": { "name": "Vord", "twitch": "" },
+      "player2": { "name": "LetsPrepareToTry", "twitch": "" },
+      "races": [
+        { "raceId": "race1", "player1Seconds": 5829, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 6241, "player2Kills": 0, "player2Deaths": 0 }
+      ]
+    },
+    {
+      "id": "washedandunc",
+      "teamName": "Washed and Unc",
+      "player1": { "name": "Harv", "twitch": "" },
+      "player2": { "name": "Ratty", "twitch": "" },
+      "races": [
+        { "raceId": "race1", "player1Seconds": 5981, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 6595, "player2Kills": 0, "player2Deaths": 0 },
+        { "raceId": "race2", "player1Seconds": 5561, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 6010, "player2Kills": 0, "player2Deaths": 0 }
+      ]
+    },
+    {
+      "id": "thusspokemessmerstra",
+      "teamName": "Thus Spoke Messmerstra",
+      "player1": { "name": "Jibbe", "twitch": "" },
+      "player2": { "name": "KC", "twitch": "" },
+      "races": [
+        { "raceId": "race1", "player1Seconds": 6271, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 9650, "player2Kills": 0, "player2Deaths": 0 },
+        { "raceId": "race2", "player1Seconds": 5455, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 9105, "player2Kills": 0, "player2Deaths": 0 },
+        { "raceId": "race3", "player1Seconds": 4689, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 5659, "player2Kills": 0, "player2Deaths": 0 }
+      ]
+    },
+    {
+      "id": "deeplylostcats",
+      "teamName": "Deeply Lost Cats",
+      "player1": { "name": "Bekineko", "twitch": "" },
+      "player2": { "name": "Mewtwo2u", "twitch": "" },
+      "races": [
+        { "raceId": "race1", "player1Seconds": 12215, "player1Kills": 0, "player1Deaths": 0, "player2Seconds": 15136, "player2Kills": 0, "player2Deaths": 0 }
+      ]
+    }
+  ]
+}
